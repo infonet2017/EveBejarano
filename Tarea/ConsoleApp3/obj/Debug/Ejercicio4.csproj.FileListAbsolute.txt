@@ -1,0 +1,6 @@
+C:\Users\Informatorio\source\repos\Ejercicio1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Informatorio\source\repos\Ejercicio1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Informatorio\source\repos\Ejercicio1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Informatorio\source\repos\Ejercicio1\ConsoleApp3\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Informatorio\source\repos\Ejercicio1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Informatorio\source\repos\Ejercicio1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
