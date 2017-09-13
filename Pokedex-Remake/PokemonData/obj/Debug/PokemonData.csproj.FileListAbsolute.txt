@@ -1,0 +1,1 @@
+c:\users\eve bejarano\source\repos\Pokedex-Remake\PokemonData\obj\Debug\PokemonData.csproj.CoreCompileInputs.cache

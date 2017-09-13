@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{D11E1247-78E9-4181-9D94-5B0B812127EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonData", "PokemonData\PokemonData.csproj", "{288F5797-CF07-46C9-9947-AD2F8B38134B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{FFF16834-11FE-4F09-8819-409A30A1930D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonBusiness", "PokemonBusiness\PokemonBusiness.csproj", "{2E728BA7-523A-44DE-95BC-3F5ACC70CCA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{8C345C4E-4698-4F96-A49D-3DBF85CA230E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonPresentation", "PokemonPresentation\PokemonPresentation.csproj", "{C5B72FC6-283E-443B-B3A9-9851AD79BDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288F5797-CF07-46C9-9947-AD2F8B38134B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288F5797-CF07-46C9-9947-AD2F8B38134B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288F5797-CF07-46C9-9947-AD2F8B38134B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288F5797-CF07-46C9-9947-AD2F8B38134B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E728BA7-523A-44DE-95BC-3F5ACC70CCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E728BA7-523A-44DE-95BC-3F5ACC70CCA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E728BA7-523A-44DE-95BC-3F5ACC70CCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E728BA7-523A-44DE-95BC-3F5ACC70CCA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B72FC6-283E-443B-B3A9-9851AD79BDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B72FC6-283E-443B-B3A9-9851AD79BDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B72FC6-283E-443B-B3A9-9851AD79BDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B72FC6-283E-443B-B3A9-9851AD79BDED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{288F5797-CF07-46C9-9947-AD2F8B38134B} = {D11E1247-78E9-4181-9D94-5B0B812127EA}
+		{2E728BA7-523A-44DE-95BC-3F5ACC70CCA1} = {FFF16834-11FE-4F09-8819-409A30A1930D}
+		{C5B72FC6-283E-443B-B3A9-9851AD79BDED} = {8C345C4E-4698-4F96-A49D-3DBF85CA230E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A79FD4-6CF1-47D6-AD97-F0FAECE09BCA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+c:\users\eve bejarano\source\repos\Pokedex-Remake\PokemonBusiness\obj\Debug\PokemonBusiness.csproj.CoreCompileInputs.cache
