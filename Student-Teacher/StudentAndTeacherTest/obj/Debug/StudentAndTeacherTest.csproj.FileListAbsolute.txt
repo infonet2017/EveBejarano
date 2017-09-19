@@ -1,0 +1,7 @@
+C:\Users\Eve Bejarano\source\repos\ConsoleApp2\StudentAndTeacherTest\bin\Debug\StudentAndTeacherTest.exe.config
+C:\Users\Eve Bejarano\source\repos\ConsoleApp2\StudentAndTeacherTest\bin\Debug\StudentAndTeacherTest.exe
+C:\Users\Eve Bejarano\source\repos\ConsoleApp2\StudentAndTeacherTest\bin\Debug\StudentAndTeacherTest.pdb
+C:\Users\Eve Bejarano\source\repos\ConsoleApp2\StudentAndTeacherTest\obj\Debug\StudentAndTeacherTest.csprojResolveAssemblyReference.cache
+C:\Users\Eve Bejarano\source\repos\ConsoleApp2\StudentAndTeacherTest\obj\Debug\StudentAndTeacherTest.csproj.CoreCompileInputs.cache
+C:\Users\Eve Bejarano\source\repos\ConsoleApp2\StudentAndTeacherTest\obj\Debug\StudentAndTeacherTest.exe
+C:\Users\Eve Bejarano\source\repos\ConsoleApp2\StudentAndTeacherTest\obj\Debug\StudentAndTeacherTest.pdb

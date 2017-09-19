@@ -1,0 +1,10 @@
+c:\users\eve bejarano\source\repos\AngryBird\AngryBird\bin\Debug\netcoreapp1.1\AngryBird.deps.json
+c:\users\eve bejarano\source\repos\AngryBird\AngryBird\bin\Debug\netcoreapp1.1\AngryBird.runtimeconfig.json
+c:\users\eve bejarano\source\repos\AngryBird\AngryBird\bin\Debug\netcoreapp1.1\AngryBird.runtimeconfig.dev.json
+c:\users\eve bejarano\source\repos\AngryBird\AngryBird\bin\Debug\netcoreapp1.1\AngryBird.dll
+c:\users\eve bejarano\source\repos\AngryBird\AngryBird\bin\Debug\netcoreapp1.1\AngryBird.pdb
+c:\users\eve bejarano\source\repos\AngryBird\AngryBird\obj\Debug\netcoreapp1.1\AngryBird.csprojResolveAssemblyReference.cache
+c:\users\eve bejarano\source\repos\AngryBird\AngryBird\obj\Debug\netcoreapp1.1\AngryBird.csproj.CoreCompileInputs.cache
+c:\users\eve bejarano\source\repos\AngryBird\AngryBird\obj\Debug\netcoreapp1.1\AngryBird.AssemblyInfo.cs
+c:\users\eve bejarano\source\repos\AngryBird\AngryBird\obj\Debug\netcoreapp1.1\AngryBird.dll
+c:\users\eve bejarano\source\repos\AngryBird\AngryBird\obj\Debug\netcoreapp1.1\AngryBird.pdb

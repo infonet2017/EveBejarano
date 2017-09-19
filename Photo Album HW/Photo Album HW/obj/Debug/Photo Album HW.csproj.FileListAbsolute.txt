@@ -1,0 +1,7 @@
+C:\Users\Eve Bejarano\source\repos\Photo Album HW\Photo Album HW\bin\Debug\Photo Album HW.exe.config
+C:\Users\Eve Bejarano\source\repos\Photo Album HW\Photo Album HW\bin\Debug\Photo Album HW.exe
+C:\Users\Eve Bejarano\source\repos\Photo Album HW\Photo Album HW\bin\Debug\Photo Album HW.pdb
+C:\Users\Eve Bejarano\source\repos\Photo Album HW\Photo Album HW\obj\Debug\Photo Album HW.csprojResolveAssemblyReference.cache
+C:\Users\Eve Bejarano\source\repos\Photo Album HW\Photo Album HW\obj\Debug\Photo Album HW.csproj.CoreCompileInputs.cache
+C:\Users\Eve Bejarano\source\repos\Photo Album HW\Photo Album HW\obj\Debug\Photo Album HW.exe
+C:\Users\Eve Bejarano\source\repos\Photo Album HW\Photo Album HW\obj\Debug\Photo Album HW.pdb
