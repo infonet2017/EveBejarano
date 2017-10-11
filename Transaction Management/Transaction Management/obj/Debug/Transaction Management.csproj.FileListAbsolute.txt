@@ -1,0 +1,7 @@
+C:\Users\Eve Bejarano\source\repos\Transaction Management\Transaction Management\bin\Debug\Transaction Management.exe.config
+C:\Users\Eve Bejarano\source\repos\Transaction Management\Transaction Management\bin\Debug\Transaction Management.exe
+C:\Users\Eve Bejarano\source\repos\Transaction Management\Transaction Management\bin\Debug\Transaction Management.pdb
+C:\Users\Eve Bejarano\source\repos\Transaction Management\Transaction Management\obj\Debug\Transaction Management.csprojResolveAssemblyReference.cache
+C:\Users\Eve Bejarano\source\repos\Transaction Management\Transaction Management\obj\Debug\Transaction Management.csproj.CoreCompileInputs.cache
+C:\Users\Eve Bejarano\source\repos\Transaction Management\Transaction Management\obj\Debug\Transaction Management.exe
+C:\Users\Eve Bejarano\source\repos\Transaction Management\Transaction Management\obj\Debug\Transaction Management.pdb
