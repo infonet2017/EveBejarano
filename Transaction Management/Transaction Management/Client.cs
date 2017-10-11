@@ -8,11 +8,11 @@ namespace Transaction_Management
 {
     class Client: Person
     {
-        List<Loan> Loans { get; set; }
+        public List<Loan> Loans { get; set; }
 
         public Client()
         {
-            List<Loan> Loans = new List<Loan>();
+            Loans = new List<Loan>();
         }
     }
 }
